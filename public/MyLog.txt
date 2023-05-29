@@ -1,0 +1,219 @@
+2023-04-25 16:59:24 PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /var/www/html/public/index.php
+    [line:protected] => 19
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /var/www/html/public/index.php
+                    [line] => 19
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=a_level_mysql;port=3306123123;dbname=iq
+                            [1] => root
+                            [2] => myapp
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => Array
+        (
+            [0] => HY000
+            [1] => 2002
+            [2] => Connection refused
+        )
+
+)
+
+2023-04-25 17:00:07 SQLSTATE[HY000] [2002] Connection refused
+2023-04-25 17:01:54 SQLSTATE[HY000] [2002] Connection refused
+2023-04-25 17:12:45 SQLSTATE[HY000] [2002] Connection refused
+2023-04-25 19:03:18 qweqweqwe
+2023-05-01 10:55:30 qweqweqwe
+2023-05-01 10:55:32 qweqweqwe
+2023-05-01 10:55:42 qweqweqwe
+2023-05-01 10:55:52 qweqweqwe
+2023-05-01 10:59:23 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 11:03:44 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 11:03:46 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 11:33:58 Array
+(
+    [suggest] => Testsetsetset
+)
+
+2023-05-01 16:06:42 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:08:00 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:10:45 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:11:17 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:11:33 Array
+(
+    [email] => jm.easyslp@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:12:30 Array
+(
+)
+
+2023-05-01 16:21:36 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 16:23:12 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => qweqweqwe
+)
+
+2023-05-01 18:37:44 Array
+(
+    [data] => testTTTTT
+)
+
+2023-05-01 18:39:48 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 23123123
+)
+
+2023-05-01 18:39:48 Array
+(
+    [email] => zabara.industry@gmail.com
+    [feedback] => 23123123
+)
+
+2023-05-01 18:40:11 Array
+(
+    [email] => a.zabara@piogroup.net
+    [feedback] => 123123312
+)
+
+2023-05-01 18:40:57 Array
+(
+    [email] => jm.easyslp@gmail.com
+    [feedback] => 123123
+)
+
+2023-05-01 18:41:19 Array
+(
+    [email] => a.zabara@piogroup.net
+    [feedback] => 123123
+)
+
+2023-05-01 18:59:10 Array
+(
+)
+
+2023-05-01 18:59:39 Array
+(
+)
+
+2023-05-01 18:59:40 Array
+(
+)
+
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 17:10:17 sadasdasdasd
+2023-05-18 19:06:45 info adsdasdasads
+2023-05-18 19:06:45 info adsdasdasads
+2023-05-18 19:07:06 info adsdasdasads
+2023-05-18 19:07:06 info adsdasdasads
+2023-05-18 19:07:31 | info | adsdasdasads
+2023-05-18 19:07:31 | info | adsdasdasads
+2023-05-18 19:07:31 | info | adsdasdasads
+2023-05-18 19:07:31 | info | adsdasdasads
+2023-05-18 19:07:32 | info | adsdasdasads
+2023-05-18 19:07:32 | info | adsdasdasads
+2023-05-22 16:07:33 | info | adsdasdasads
+2023-05-22 16:07:33 | info | adsdasdasads
+2023-05-22 16:43:39 | info | adsdasdasads
+2023-05-22 16:43:40 | info | adsdasdasads
+2023-05-22 16:44:04 | info | adsdasdasads
+2023-05-22 16:44:04 | info | adsdasdasads
+2023-05-22 16:44:08 | info | adsdasdasads
+2023-05-22 16:44:08 | info | adsdasdasads
+2023-05-22 16:44:15 | info | adsdasdasads
+2023-05-22 16:44:15 | info | adsdasdasads
+2023-05-22 16:49:58 | info | adsdasdasads
+2023-05-22 16:49:58 | info | adsdasdasads
+2023-05-22 16:58:45 | info | adsdasdasads
+2023-05-22 16:58:45 | info | adsdasdasads
+2023-05-22 16:59:54 | info | adsdasdasads
+2023-05-22 16:59:54 | info | adsdasdasads
+2023-05-22 17:00:09 | info | adsdasdasads
+2023-05-22 17:00:09 | info | adsdasdasads
+2023-05-22 17:15:28 | info | adsdasdasads
+2023-05-22 17:15:28 | info | adsdasdasads
+2023-05-22 17:15:48 | info | adsdasdasads
+2023-05-22 17:15:48 | info | adsdasdasads
+2023-05-22 17:16:41 | info | adsdasdasads
+2023-05-22 17:16:41 | info | adsdasdasads
+2023-05-22 17:18:11 | info | adsdasdasads
+2023-05-22 17:18:11 | info | adsdasdasads
+2023-05-22 17:18:34 | info | adsdasdasads
+2023-05-22 17:18:34 | info | adsdasdasads
+2023-05-22 17:20:37 | info | adsdasdasads
+2023-05-22 17:20:37 | info | adsdasdasads
+2023-05-22 17:20:38 | info | adsdasdasads
+2023-05-22 17:20:38 | info | adsdasdasads
+2023-05-22 17:20:42 | info | adsdasdasads
+2023-05-22 17:20:42 | info | adsdasdasads
+2023-05-22 17:20:46 | info | adsdasdasads
+2023-05-22 17:20:46 | info | adsdasdasads
+2023-05-22 17:21:10 | info | adsdasdasads
+2023-05-22 17:21:10 | info | adsdasdasads
+2023-05-22 17:23:25 | info | adsdasdasads
+2023-05-22 17:23:25 | info | adsdasdasads
+2023-05-22 17:23:25 | info | adsdasdasads
+2023-05-22 17:23:25 | info | adsdasdasads
